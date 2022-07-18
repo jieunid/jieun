@@ -1,10 +1,10 @@
 ---
 layout: post
-title: React
+title: react
 image: 5.jpg
 date: 2022-07-12 13:35:20 +0200
 tags:
-categories: React
+categories: react
 ---
 React란 무엇인가요?
 React는 사용자 인터페이스를 구축하기 위한 선언적이고 효율적이며 유연한 JavaScript 라이브러리입니다. “컴포넌트”라고 불리는 작고 고립된 코드의 파편을 이용하여 복잡한 UI를 구성하도록 돕습니다.
