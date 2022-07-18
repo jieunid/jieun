@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Blogging
-image: 8.jpg
-date: 2018-03-02 13:35:20 +0200
+image: 4.jpg
+date: 2022-07-02 13:35:20 +0200
 tags:
 categories: Blogging
 ---
@@ -27,32 +27,14 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
-#### Lists
+웹(web) 로그(log)의 줄임말로, 1997년 미국에서 처음 등장하였다. 새로 올리는 글이 맨 위로 올라가는 일지(日誌) 형식으로 되어 있어 이런 이름이 붙었다. 일반인들이 자신의 관심사에 따라 일기·칼럼·기사 등을 자유롭게 올릴 수 있을 뿐 아니라, 개인출판·개인방송·커뮤니티까지 다양한 형태를 취하는 일종의 1인 미디어이다.
 
-###### Ordered list example:
+웹 게시판, 개인 홈페이지, 컴퓨터 기능이 혼합되어 있고, 소프트웨어를 무료 또는 싼 가격에 구입할 수 있으며, 인터넷 홈페이지 제작과 관련된 지식이 없어도 자신의 공간을 만들 수 있다는 장점이 있다. 즉 블로그 페이지만 있으면, 누구나 텍스트 또는 그래픽 방식을 이용해 자신의 의견이나 이야기를 올릴 수 있고, 디지털카메라를 이용해 사진 자료를 올릴 수 있는 새로운 개념의 미디어이다.
 
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
+세부 기능은 ① 일기처럼 날짜별로 구성되어 있어 일상에서 일어나는 일들을 손쉽게 기록할 수 있다. ② 완벽한 자료 관리가 가능하다. ③ 독자적인 자료 보관이 가능하고, 저장된 파일을 이메일로 보낼 수 있다. ④ 일반 커뮤니티의 게시판과 달리 콘텐츠 중심으로 구성되어 있어 더 많은 커뮤니티 기능을 할 수 있다. ⑤ 자신이 작성한 콘텐츠를 중심으로 한 동조자가 생겨 광범위한 커뮤니티를 형성할 수 있고, 남이 만든 블로그에 가입할 수도 있다. ⑥ 채팅이 가능하며, 특히 채팅한 내용들이 날짜별로 블로그 페이지에 기록된다. ⑦ 웹 브라우저 상에서 실시간으로 콘텐츠의 내용을 볼 수 있다.
 
-###### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
+미국에서는 이미 일반화되어 있으며, 한국에서도 갈수록 사이트가 늘어나고 있는데, 기술적·상업적인 제약 없이 누구나 자신의 생각을 사이트에 올려 다른 사람들과 공유할 수 있는 특성 때문에 기존의 언론을 보완할 수 있는 대안언론으로서도 주목을 받고 있다. 
+[
 ***
 
 #### Quotes
