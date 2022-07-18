@@ -1,22 +1,32 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: css
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+layout: post
+title: "Aam Rus"
+date: 2020-05-18 21:58:18 -0500
+image: 2020-05-18-aam-rus.jpg
+tags: dessert
+categories: dessert
+prep-time:
+cook-time:
+total-time:
+---
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Aam Rus is a dessert made of mango puree and sugar that can be eaten with roti or rice.
 
-Jekyll also offers powerful support for code snippets:
+#### Serves 4 people
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+#### Ingredients
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+| Ingredients |     Quantity     |
+|:-----------:|:----------------:|
+| Ripe mangos | 2-4 medium sized |
+|     Milk    |      0.5 cup     |
+|    Sugar    |     As needed    |
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Directions
+
+1.	Peel mango(s)
+2.	Chop and blend mango pulp
+3.	Add milk. If you used 2 ripe mangos add half cup of milk
+4.	Add sugar if needed and mix for consistency
+5.	Enjoy!
