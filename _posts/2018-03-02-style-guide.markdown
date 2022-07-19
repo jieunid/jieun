@@ -6,26 +6,8 @@ date: 2022-07-02 13:35:20 +0200
 tags:
 categories: Blogging
 ---
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
 
-***
 
-#### Headings by default:
-
-# H1 For example
-## H2 For example
-### H3 For example
-#### H4 For example
-##### H5 For example
-###### H6 For example
-
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
-
-***
 
 웹(web) 로그(log)의 줄임말로, 1997년 미국에서 처음 등장하였다. 새로 올리는 글이 맨 위로 올라가는 일지(日誌) 형식으로 되어 있어 이런 이름이 붙었다. 일반인들이 자신의 관심사에 따라 일기·칼럼·기사 등을 자유롭게 올릴 수 있을 뿐 아니라, 개인출판·개인방송·커뮤니티까지 다양한 형태를 취하는 일종의 1인 미디어이다.
 
@@ -35,41 +17,3 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 미국에서는 이미 일반화되어 있으며, 한국에서도 갈수록 사이트가 늘어나고 있는데, 기술적·상업적인 제약 없이 누구나 자신의 생각을 사이트에 올려 다른 사람들과 공유할 수 있는 특성 때문에 기존의 언론을 보완할 수 있는 대안언론으로서도 주목을 받고 있다. 
 [
-***
-
-#### Quotes
-
-###### A quote looks like this:
-
-> Never put off till tomorrow what may be done day after tomorrow just as well. — Mark Twain
-
-***
-
-#### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-#### Images
-
-![]({{site.baseurl}}/images/2.jpg)
-
-***
-
-#### Videos
-
-###### Youtube
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
